@@ -18,7 +18,6 @@ This is a **Spring Boot application** that demonstrates a simple event-driven wo
 
 ### Prerequisites
 - Docker
-- Docker Compose
 
 ### Build Docker Images
 ```bash
