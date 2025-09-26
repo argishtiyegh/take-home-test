@@ -28,13 +28,13 @@ docker compose up -d
 
 ```
 
-##Access the Application
+## Access the Application
 
 Spring Boot API: http://localhost:8080
 
 Kafka UI: http://localhost:8081
 
-##API USAGE
+## API USAGE
 
 ```
 
@@ -45,6 +45,6 @@ docker ps // to get container ID for take-home-test_springboot-app
 docker logs [CONTAINER_ID] // view the logs for tracking the events behavior.
 
 ```
-###To stop the docker containers, run 
+### Stop the docker containers, run 
 ```
 docker compose stop
